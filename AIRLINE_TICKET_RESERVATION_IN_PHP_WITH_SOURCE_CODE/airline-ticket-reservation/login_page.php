@@ -26,7 +26,7 @@
 	<body>
 		<img class="logo" src="images/shutterstock_22.jpg"/> 
 		<h1 id="title">
-			AADITH AIRLINES
+			AADITHffffffyyyyyyyyyyyyyyy AIRLINES
 		</h1>
 		<div>
 			<ul>
